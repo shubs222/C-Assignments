@@ -1,0 +1,7 @@
+D:\My Tasks\Assignments\10thSep2018\bin\Debug\10thSep2018.exe.config
+D:\My Tasks\Assignments\10thSep2018\bin\Debug\10thSep2018.exe
+D:\My Tasks\Assignments\10thSep2018\bin\Debug\10thSep2018.pdb
+D:\My Tasks\Assignments\10thSep2018\obj\Debug\10thSep2018.csprojAssemblyReference.cache
+D:\My Tasks\Assignments\10thSep2018\obj\Debug\10thSep2018.csproj.CoreCompileInputs.cache
+D:\My Tasks\Assignments\10thSep2018\obj\Debug\10thSep2018.exe
+D:\My Tasks\Assignments\10thSep2018\obj\Debug\10thSep2018.pdb

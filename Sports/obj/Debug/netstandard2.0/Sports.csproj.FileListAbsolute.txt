@@ -1,0 +1,4 @@
+D:\My Tasks\Assignments\Sports\obj\Debug\netstandard2.0\Sports.csprojAssemblyReference.cache
+D:\My Tasks\Assignments\Sports\obj\Debug\netstandard2.0\Sports.csproj.CoreCompileInputs.cache
+D:\My Tasks\Assignments\Sports\obj\Debug\netstandard2.0\Sports.AssemblyInfoInputs.cache
+D:\My Tasks\Assignments\Sports\obj\Debug\netstandard2.0\Sports.AssemblyInfo.cs

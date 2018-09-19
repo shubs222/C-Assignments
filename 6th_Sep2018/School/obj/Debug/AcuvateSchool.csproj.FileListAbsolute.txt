@@ -1,0 +1,7 @@
+D:\My Tasks\Assignment\AcuvateSchool\AcuvateSchool\bin\Debug\AcuvateSchool.exe.config
+D:\My Tasks\Assignment\AcuvateSchool\AcuvateSchool\bin\Debug\AcuvateSchool.exe
+D:\My Tasks\Assignment\AcuvateSchool\AcuvateSchool\bin\Debug\AcuvateSchool.pdb
+D:\My Tasks\Assignment\AcuvateSchool\AcuvateSchool\obj\Debug\AcuvateSchool.csprojAssemblyReference.cache
+D:\My Tasks\Assignment\AcuvateSchool\AcuvateSchool\obj\Debug\AcuvateSchool.csproj.CoreCompileInputs.cache
+D:\My Tasks\Assignment\AcuvateSchool\AcuvateSchool\obj\Debug\AcuvateSchool.exe
+D:\My Tasks\Assignment\AcuvateSchool\AcuvateSchool\obj\Debug\AcuvateSchool.pdb
